@@ -1,17 +1,17 @@
 <div align="center">
 
-  <img src="./public/imgs/TURISTAR.png" alt="logo" width="200" height="auto" />
-  <h1>Projeto Turistar</h1>
+  <img src="./imagens/logo.svg" alt="logo" width="200" height="auto" />
+  <h1>Projeto Te Vejo</h1>
   
   <p>
-    Projeto de TCC criado na Etec Camargo Aranha com colaboração com o curso de Guia de Turismo!
+    Projeto de Demoday criado no Instituto Proa!
   </p>
    
 <h4>
   <span> · </span>
     <a href="https://docs.google.com/document/d/1aIpb1FACnRY-QxivR-8wZV5SEMCfHKUF/edit?usp=sharing&ouid=100107909743078699184&rtpof=true&sd=true">Documentação</a>
   <span> · </span>
-    <a href="http://eteccamargoaranha.com.br/">Etec Camargo Aranha</a>
+    <a href="http://eteccamargoaranha.com.br/">Instituto Proa</a>
   <span> · </span>
 </div>
 
@@ -41,7 +41,7 @@
 ### :camera: Screenshot
 
 <div align="center"> 
-  <img src="./public/imgCapaReadme/capturaTela.png" alt="screenshot" />
+  <img src="./imagens/print.png" alt="screenshot" />
 </div>
 
 
