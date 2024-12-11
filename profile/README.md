@@ -34,7 +34,7 @@ Nesse sentido, nos desenvolvemos no Instituto PROA que forneceu o suporte necess
   <img src="../imagens/Melissa.jpeg"  width="100" />
 </a>
   <a href="https://github.com/Pedro-HTS">
-  <img src="../imagens/Pedro.jpeg" width="150" />
+  <img src="../imagens/Pedro.jpeg" width="100" />
 </a>
 <a href="https://github.com/soniacolumba">
   <img src="../imagens/Sonia.jpeg" width="100" />
