@@ -1,6 +1,8 @@
 <div align="center">
 
+  <a href="https://tevejo.com.br/">
   <img src="./imagens/logo.svg" alt="logo" width="200" height="auto" />
+  </a>
   <h1>Projeto Te Vejo</h1>
   
   <p>
