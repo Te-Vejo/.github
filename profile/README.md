@@ -1,5 +1,5 @@
 <div align = "center">
-
+   <img src="../imagens/logo.svg" alt="logo" width="200" height="auto" />
 </div>
 
  # Sobre a Te Vejo
