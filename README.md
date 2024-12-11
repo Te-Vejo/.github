@@ -147,7 +147,7 @@ De start no servidor
 <!-- Usage -->
 ## :eyes: Observações
 
-Recomendado 8Gb de RAM e tmabém para acessar o projeto via web basta <a href="www.tevejo.com.br" target="_blank">clicar aqui!</a>
+Recomendado 8Gb de RAM e tmabém para acessar o projeto via web basta <a href="https://beacons.ai/te_vejo" target="_blank">clicar aqui!</a>
 
 <!-- Contributing -->
 ## :wave: Contribuidores
@@ -156,26 +156,26 @@ Recomendado 8Gb de RAM e tmabém para acessar o projeto via web basta <a href="w
 <a href="https://github.com/Cai0Sant0">
   <img src="https://avatars.githubusercontent.com/u/110570422?v=4" width="50" />
 </a>
-<a href="https://github.com/carolsant13">
-  <img src="https://avatars.githubusercontent.com/u/144270722?v=4" width="50" />
+<a href="https://github.com/Rirfit">
+  <img src="https://avatars.githubusercontent.com/u/88068045?v=4" width="50" />
 </a>
-<a href="https://github.com/isabbl">
-  <img src="https://avatars.githubusercontent.com/u/145304227?v=4"  width="50" />
+<a href="https://github.com/Braz4BR">
+  <img src="https://avatars.githubusercontent.com/u/145507230?v=4"  width="50" />
 </a>
-  <a href="https://github.com/Cai0Sant0">
-  <img src="https://avatars.githubusercontent.com/u/110570422?v=4" width="50" />
+  <a href="https://github.com/LiveaBrito">
+  <img src="https://avatars.githubusercontent.com/u/159591382?v=4" width="50" />
 </a>
-<a href="https://github.com/carolsant13">
-  <img src="https://avatars.githubusercontent.com/u/144270722?v=4" width="50" />
+<a href="https://github.com/gusantos7">
+  <img src="https://avatars.githubusercontent.com/u/169494657?v=4" width="50" />
 </a>
-<a href="https://github.com/isabbl">
-  <img src="https://avatars.githubusercontent.com/u/145304227?v=4"  width="50" />
+<a href="https://github.com/lissalissa-hub">
+  <img src="https://avatars.githubusercontent.com/u/177350386?v=4"  width="50" />
 </a>
-  <a href="https://github.com/Cai0Sant0">
-  <img src="https://avatars.githubusercontent.com/u/110570422?v=4" width="50" />
+  <a href="https://github.com/Pedro-HTS">
+  <img src="https://avatars.githubusercontent.com/u/179891814?v=4" width="50" />
 </a>
-<a href="https://github.com/carolsant13">
-  <img src="https://avatars.githubusercontent.com/u/144270722?v=4" width="50" />
+<a href="https://github.com/soniacolumba">
+  <img src="https://avatars.githubusercontent.com/u/180213613?v=4" width="50" />
 </a>
 </div>
 
