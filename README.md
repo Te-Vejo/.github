@@ -11,9 +11,9 @@
    
 <h4>
   <span> · </span>
-    <a href="https://docs.google.com/document/d/1aIpb1FACnRY-QxivR-8wZV5SEMCfHKUF/edit?usp=sharing&ouid=100107909743078699184&rtpof=true&sd=true">Documentação</a>
+    <a href="https://docs.google.com/document/d/1DJGpMmsyEGeTBT71VZHtLXyJqpSMcdub/edit?usp=drivesdk&ouid=116389945096867616330&rtpof=true&sd=true">Documentação</a>
   <span> · </span>
-    <a href="http://eteccamargoaranha.com.br/">Instituto Proa</a>
+    <a href="https://www.proa.org.br/">Instituto Proa</a>
   <span> · </span>
 </div>
 
