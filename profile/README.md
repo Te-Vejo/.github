@@ -19,25 +19,25 @@ Nesse sentido, nos desenvolvemos no Instituto PROA que forneceu o suporte necess
   <img src="../imagens/Caio.jpg" width="100" />
 </a>
 <a href="https://github.com/Rirfit">
-  <img src="../imagens/Gabriel.jpg width="100" />
+  <img src="../imagens/Gabriel.jpeg" width="100" />
 </a>
 <a href="https://github.com/Braz4BR">
-  <img src="https://avatars.githubusercontent.com/u/145507230?v=4"  width="100" />
+  <img src="../imagens/Davi.jpeg"  width="100" />
 </a>
   <a href="https://github.com/LiveaBrito">
-  <img src="https://avatars.githubusercontent.com/u/159591382?v=4" width="100" />
+  <img src="../imagens/Livea.jpeg" width="100" />
 </a>
 <a href="https://github.com/gusantos7">
-  <img src="https://avatars.githubusercontent.com/u/169494657?v=4" width="100" />
+  <img src="../imagens/Gustavo.jpeg" width="100" />
 </a>
 <a href="https://github.com/lissalissa-hub">
-  <img src="https://avatars.githubusercontent.com/u/177350386?v=4"  width="100" />
+  <img src="../imagens/Melissa.jpeg"  width="100" />
 </a>
   <a href="https://github.com/Pedro-HTS">
-  <img src="https://avatars.githubusercontent.com/u/179891814?v=4" width="150" />
+  <img src="../imagens/Pedro.jpeg" width="150" />
 </a>
 <a href="https://github.com/soniacolumba">
-  <img src="https://avatars.githubusercontent.com/u/180213613?v=4" width="100" />
+  <img src="../imagens/Sonia.jpeg" width="100" />
 </a>
 </div>
 
