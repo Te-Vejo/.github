@@ -147,7 +147,7 @@ De start no servidor
 <!-- Usage -->
 ## :eyes: Observações
 
-Recomendado 8Gb de RAM e tmabém para acessar o projeto via web basta <a href="www.tevejo.com.br" target="_blank">clicar aqui!</a>
+Recomendado 8Gb de RAM e tmabém para acessar o projeto via web basta <a href="https://tevejo.com.br/" target="_blank">clicar aqui!</a>
 
 <!-- Contributing -->
 ## :wave: Contribuidores
