@@ -16,7 +16,7 @@ Nesse sentido, nos desenvolvemos no Instituto PROA que forneceu o suporte necess
 
 <div style="display:flex; justify-content: space-around;">
 <a href="https://github.com/Cai0Sant0">
-  <img src="https://avatars.githubusercontent.com/u/110570422?v=4" width="150" />
+  <img src="../imagens/Caio.jpg" width="150" />
 </a>
 <a href="https://github.com/Rirfit">
   <img src="https://avatars.githubusercontent.com/u/88068045?v=4" width="150" />
